@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "name": "Priya",
+      "email": "priya@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Raghav",
+      "email": "raghav@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Riya 1",
+      "email": "riya@example.com"
+    },
+    {
+      "name": "urmila ",
+      "email": "landageurmila2019@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "wscubetech",
+      "email": "ne@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 9
+    }
+  ]
+}
